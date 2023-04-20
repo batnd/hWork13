@@ -1,0 +1,1 @@
+console.log("Текст 1 - dev1");
